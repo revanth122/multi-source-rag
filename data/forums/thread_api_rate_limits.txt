@@ -1,0 +1,8 @@
+Title: Are rate limits per user or per workspace?
+
+User: If we have 200 users, do we get 200 * 1000 RPM?
+
+- 31-40 days of version history on the Basic plan
+
+
+Reply: It's actually per access token, which usually maps to a user in your workspace, so yes, effectively per user token.

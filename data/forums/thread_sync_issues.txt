@@ -1,0 +1,5 @@
+Title: Notes disappearing after sync?
+
+User: I'm on the Basic plan and I think some of my older versions are gone. Does Nimbus delete old versions?
+
+Reply: On Basic you only get 30 days of version history. After that, older versions are removed from history, but your latest note content stays. It's not really "deleting notes", just old versions.

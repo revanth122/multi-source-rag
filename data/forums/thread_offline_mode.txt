@@ -1,0 +1,5 @@
+Title: Does offline mode work on web?
+
+User: I turned off Wi-Fi in Chrome and tried editing a note, but changes weren't saved.
+
+Reply: Offline mode only works in the desktop and mobile apps, not in browsers. Web app needs an active connection.

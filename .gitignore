@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.log
+*.jsonl
+venv/
+.venv/
+.env
+*.faiss
+*.index
+*.pkl
+chroma_db/
+vectorstore/
+.DS_Store
+
