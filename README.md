@@ -1,4 +1,4 @@
-# 🔍 Multi-Source Retrieval-Augmented Generation (RAG) System
+# Multi-Source Retrieval-Augmented Generation (RAG) System
 
 This project implements a **multi-source Retrieval-Augmented Generation (RAG) pipeline**
 that retrieves relevant context from **documentation, blogs, and forum discussions**
@@ -9,7 +9,7 @@ The system is designed to handle:
 - Conflicting information across sources
 - Context ranking and relevance filtering before LLM generation
 
-## 🚀 Key Features
+## Key Features
 - Multi-source ingestion (docs, blogs, forums)
 - Intelligent text chunking
 - Embedding-based semantic search
@@ -18,7 +18,7 @@ The system is designed to handle:
 - Contradiction detection across sources
 - LLM-augmented answer generation
 
-## 🏗️ System Architecture & Flow
+## System Architecture & Flow
 
 The RAG pipeline follows a modular, multi-stage architecture:
 
